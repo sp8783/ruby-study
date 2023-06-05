@@ -1,0 +1,2 @@
+require_relative "09_practice04_module"
+puts WhippedCream.info
